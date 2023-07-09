@@ -1,6 +1,1 @@
-csv file:-
-sky,airtemp, Humidity,Wind,Water,forecast,Enjoy sport
-Sunny,Warm,Normal,Strong,Warm,Same,Yes
-Sunny,Warm,high,Strong,Warm,Same,Yes
-Rainy,Cold,high,Strong,Warm,Change,No
-Sunny,Warm,high,Strong,Cool,Change,Yes
+
